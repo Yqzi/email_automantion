@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  text-align: center;
+  place-content: center;
+}
+
+button {
+  height: 50px;
+  width: 200px;
+  border-radius: 20px;
+}
